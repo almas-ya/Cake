@@ -96,7 +96,7 @@ a:hover {
 .header__info {
     background: url(../img/header-bg.jpg);
     background-size: cover;
-    padding: 150px 0 300px 150px;
+    padding: 150px 0 300px 0;
 }
 
 .header__title {
